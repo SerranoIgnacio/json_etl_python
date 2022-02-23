@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "juan",
+        "apellido": "Gomez",
+        "dni": "28432589",
+        "prendas": [
+            {
+                "prenda": "zapatilla",
+                "cantidad": 4
+            },
+            {
+                "prenda": "remeras",
+                "cantidad": 12
+            }
+        ]
+    }
+]
